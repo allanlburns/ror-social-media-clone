@@ -25,6 +25,6 @@ module SampleApp
     config.web_console.development_only = false
     
     # Include the authenticity token in remote forms.
-    config.action_view.embed_authenticity_token_in_remote_forms = true
+    #config.action_view.embed_authenticity_token_in_remote_forms = true
   end
 end
